@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jesús Alejandro
 
-Soy estudiante de Ingeniería en Sistemas Embebidos Computacionales en la Universidad Politécnica de Yucatán, apasionado por el diseño de hardware, programación de microcontroladores y sistemas electrónicos inteligentes.
+Soy un estudiante bilingue de  laIngeniería en Sistemas Embebidos Computacionales, diseño de hardware, programación de microcontroladores y sistemas electrónicos inteligentes.
 
 ---
 
