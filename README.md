@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jesús Alejandro
+# 👋 ¡Hola! Soy Alejandro
 
 Soy un estudiante bilingue de  laIngeniería en Sistemas Embebidos Computacionales, diseño de hardware, programación de microcontroladores y sistemas electrónicos inteligentes.
 
@@ -36,18 +36,18 @@ Soy un estudiante bilingue de  laIngeniería en Sistemas Embebidos Computacional
 
 ---
 
-## 💬 Me interesa:
+# 📌 Áreas de interés
 
-- 🔍 Diseño de sistemas embebidos robustos
-- 🇨🇦 Trabajar en el área de electrónica en Canadá
-- 🎓 Aprender más sobre FPGAs y visión con cámaras
-
+- 🧠 Desarrollo de sistemas embebidos de tiempo real (RTOS)
+- 📡 Conectividad inalámbrica y sensores IoT
+- 🔋 Diseño de soluciones electrónicas de bajo consumo energético
+- 📷 FPGA y procesamiento de señales con cámaras (visión embebida)
 ---
 
 ## 📫 Contacto
 
-- [📧 Email](mailto:jesus.tucorreo@ejemplo.com)
-- [🔗 LinkedIn](https://www.linkedin.com/in/jesus-pool/) *(si tienes uno)*
+- [📧 Email](mailto:JAPZoficial@outlook.com)
+- [🔗 LinkedIn](https://www.linkedin.com/in/alejandropool/) *(si tienes uno)*
 - 🌐 *Próximamente: blog o página de proyectos*
 
 ---
