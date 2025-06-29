@@ -1,48 +1,21 @@
 # 👋 ¡Hola! Soy Alejandro
 
-Soy un estudiante bilingue de  laIngeniería en Sistemas Embebidos Computacionales, diseño de hardware, programación de microcontroladores y sistemas electrónicos inteligentes.
+Soy un estudiante bilingue de la Ingeniería en Sistemas Embebidos Computacionales, diseño de hardware, programación de microcontroladores y sistemas electrónicos inteligentes.
 
 ---
 
-## 🚀 Sobre mí
+👋 ¡Hola! Soy un entusiasta de los sistemas embebidos con enfoque por el diseño electrónico y la programación en alto y bajo nivel. Mis principales áreas de interés incluyen:
 
-🎓 Actualmente en el 5to cuatrimestre de la carrera, trabajando con:
+⚙️ Desarrollo con Microcontroladores en diferentes arquitecturas: Trabajo con PIC18F57Q43, ESP32, Blue Pill (STM32) y Arduino, creando soluciones funcionales y eficientes.
 
-- ⚙️ Microcontroladores: PIC18F57Q43, ESP32  
-- 📡 Conectividad: WiFi, Bluetooth  
-- 🔋 Electrónica de potencia: convertidores buck, filtros, amplificadores operacionales  
-- 🧪 Simulaciones en OrCAD y Proteus  
-- 🔧 Diseño y fabricación de PCBs
+⏱️ Sistemas en Tiempo Real y Bajo Consumo: Uso de RTOS (como FreeRTOS) y técnicas de ahorro energético para aplicaciones críticas y portátiles.
 
----
+🔌 Electrónica y PCB: Diseño de circuitos analógicos/digitales y creación de PCBs para prototipos y robots.
 
-## 📚 Proyectos en curso
+📡 Conectividad e IoT: Integración de sensores y módulos de comunicación (WiFi, Bluetooth) para monitoreo y control remoto.
 
-- 🤖 Robot seguidor de línea con control PID
-- 🌡️ Sensado ambiental con AHT20 + BMP280 en ESP32
-- 🧠 Preparación para concurso de robótica
-- 🎓 Material educativo en inglés para niños (matemáticas y lógica)
+💡 Siempre estoy abierto a colaborar y aprender con nuevos retos tecnológicos.
 
----
-
-## 🛠️ Tecnologías
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![VHDL](https://img.shields.io/badge/-VHDL-blueviolet?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Proteus](https://img.shields.io/badge/-Proteus-blue?style=flat-square)
-![OrCAD](https://img.shields.io/badge/-OrCAD-red?style=flat-square)
-
----
-
-# 📌 Áreas de interés
-
-- 🧠 Desarrollo de sistemas embebidos de tiempo real (RTOS)
-- 📡 Conectividad inalámbrica y sensores IoT
-- 🔋 Diseño de soluciones electrónicas de bajo consumo energético
-- 📷 FPGA y procesamiento de señales con cámaras (visión embebida)
----
 
 ## 📫 Contacto
 
