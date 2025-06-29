@@ -47,7 +47,7 @@ Soy un estudiante bilingue de  laIngeniería en Sistemas Embebidos Computacional
 ## 📫 Contacto
 
 - [📧 Email](mailto:JAPZoficial@outlook.com)
-- [🔗 LinkedIn](https://www.linkedin.com/in/alejandropool/) *(si tienes uno)*
+- [🔗 LinkedIn](https://www.linkedin.com/in/alejandropool/) 
 - 🌐 *Próximamente: blog o página de proyectos*
 
 ---
