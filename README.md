@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jesús Alejandro
 
-<!--
-**JAPZ92901/JAPZ92901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Sistemas Embebidos Computacionales en la Universidad Politécnica de Yucatán, apasionado por el diseño de hardware, programación de microcontroladores y sistemas electrónicos inteligentes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+🎓 Actualmente en el 5to cuatrimestre de la carrera, trabajando con:
+
+- ⚙️ Microcontroladores: PIC18F57Q43, ESP32  
+- 📡 Conectividad: WiFi, Bluetooth  
+- 🔋 Electrónica de potencia: convertidores buck, filtros, amplificadores operacionales  
+- 🧪 Simulaciones en OrCAD y Proteus  
+- 🔧 Diseño y fabricación de PCBs
+
+---
+
+## 📚 Proyectos en curso
+
+- 🤖 Robot seguidor de línea con control PID
+- 🌡️ Sensado ambiental con AHT20 + BMP280 en ESP32
+- 🧠 Preparación para concurso de robótica
+- 🎓 Material educativo en inglés para niños (matemáticas y lógica)
+
+---
+
+## 🛠️ Tecnologías
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![VHDL](https://img.shields.io/badge/-VHDL-blueviolet?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Proteus](https://img.shields.io/badge/-Proteus-blue?style=flat-square)
+![OrCAD](https://img.shields.io/badge/-OrCAD-red?style=flat-square)
+
+---
+
+## 💬 Me interesa:
+
+- 🔍 Diseño de sistemas embebidos robustos
+- 🇨🇦 Trabajar en el área de electrónica en Canadá
+- 🎓 Aprender más sobre FPGAs y visión con cámaras
+
+---
+
+## 📫 Contacto
+
+- [📧 Email](mailto:jesus.tucorreo@ejemplo.com)
+- [🔗 LinkedIn](https://www.linkedin.com/in/jesus-pool/) *(si tienes uno)*
+- 🌐 *Próximamente: blog o página de proyectos*
+
+---
+
+> ✨ Siempre abierto a colaborar, aprender y construir soluciones significativas.
